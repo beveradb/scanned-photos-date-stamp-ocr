@@ -1,0 +1,8 @@
+-i https://pypi.org/simple/
+click==7.0
+itsdangerous==1.1.0
+jinja2==2.10.1
+markupsafe==1.1.1
+pillow==5.4.1
+pytesseract==0.2.6
+werkzeug==0.15.3
