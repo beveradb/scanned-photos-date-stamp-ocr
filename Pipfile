@@ -5,11 +5,15 @@ name = "pypi"
 
 [dev-packages]
 pylint = "*"
+pip-upgrader = "*"
 
 [packages]
 pillow = "*"
 pytesseract = "*"
-flask = "*"
+numpy = "*"
+opencv-python = "*"
+imutils = "*"
+scikit-image = "*"
 
 [requires]
 python_version = "3.7"
